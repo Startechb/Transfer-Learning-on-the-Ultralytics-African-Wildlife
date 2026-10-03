@@ -6,7 +6,7 @@
  Base data: Ultralytics African Wildlife (downloaded from the Ultralytics GitHub release) (zebra dropped)
  Lion/leopard added from the Kaggle 10 Big Cats of the Wild dataset
  Runs on Google Colab (T4 GPU)
-#Progress done
+# Progress done
   Step 1  Setup, data download, 5-class dataset construction done
   Step 2  Stratified 70/15/15 split, tf.data pipeline, augmentation done
   Step 3  Model construction (ResNet50 + custom head) done
